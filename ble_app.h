@@ -21,6 +21,6 @@
 //#define BLE_WKUP  PAout(11) 
 #define BLE_STA   HAL_GPIO_ReadPin(GPIOC, STA_Pin)
 void Ble_Test(void);
-
+#define aaa  9
 #endif
 
